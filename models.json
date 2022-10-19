@@ -1,0 +1,13 @@
+{
+    "s3_url": "https://webaverse-sd-models.s3.amazonaws.com/models/",
+    "model_list":[
+        {
+            "name": "stable_diffusion_1-4",
+            "filename": "sd-v1-4.ckpt"
+        },
+        {
+            "name": "waifu_diffusion_1-3",
+            "filename": "wd-v1-3-float16.ckpt"
+        }
+    ]
+}
