@@ -40,9 +40,8 @@
 
 <h3>Adding a model</h3>
 <ol>
-<li>Update configs/models.yaml:<br>
+<li>Update models.json:<br>
 <pre>
-models.json example
 {
     "name": "waifu_diffusion_1-3",
     "filename": "wd-v1-3-float16.ckpt"
